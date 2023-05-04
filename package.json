@@ -26,6 +26,6 @@
     "telefunc": "^0.1.52",
     "vike-authjs": "^0.0.1",
     "vite": "^4.3.2",
-    "vite-plugin-ssr": "^0.4.117"
+    "vite-plugin-ssr": "0.4.122-draft.56544"
   }
 }
