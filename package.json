@@ -4,10 +4,7 @@
   "description": "",
   "type": "module",
   "scripts": {
-    "devSimple": "hattip serve ./hattip-entry.ts",
-    "devSimpleClient": "hattip serve ./hattip-entry.ts --client",
-    "devNode": "hattip serve ./hattip-entry.ts --node ./hattip-node.ts",
-    "devNodeClient": "hattip serve ./hattip-entry.ts --node ./hattip-node.ts --client"
+    "dev": "hattip ./hattip-entry.ts"
   },
   "keywords": [],
   "author": "",
